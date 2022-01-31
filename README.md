@@ -5,4 +5,5 @@
 
 ### About me
 I'm a {frontend and mobile} developer.
+Here I present my personal projects, which I am using my experience in Swift.
 
