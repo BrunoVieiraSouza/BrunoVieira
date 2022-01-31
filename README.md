@@ -4,6 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/bruno-vieira-souza-a1264b16b/)
 
 ### About me
-I'm a {frontend and mobile} developer.
+I'm a {mobile iOS} developer.
 Here I present my personal projects, which I am using my experience in Swift.
 
